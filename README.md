@@ -51,14 +51,11 @@ CKD often goes undetected until it is advanced. This project builds a classifier
 - The classes separate very cleanly, so this is easier than real-world screening, and one error in 80 test patients is too few to draw firm conclusions.
 - Scores near 100% leave little room to detect differences between strategies.
 
-## Next steps
-Validate on an external dataset, tune hyperparameters, add SHAP for interpretability, examine the false-negative case, and build a Streamlit demo.
-
 ## How to run
 1. Clone the repo and open the notebook in Jupyter or Kaggle.
 2. Install dependencies: `pip install pandas numpy scikit-learn seaborn matplotlib`
 3. The notebook reads the data from Kaggle's input path. To run it locally, download the dataset and change the `path` variable in the loading cell.
 
 ## Author
-[YOUR NAME], data science graduate (TS Academy), Lagos, Nigeria
-[Kaggle profile](https://www.kaggle.com/praiseoluwasikemi) | [LinkedIn](YOUR LINKEDIN LINK)
+[PRAISE ADETAYO], data science graduate (TS Academy)
+[Kaggle profile](https://www.kaggle.com/praiseoluwasikemi) | [LinkedIn]([YOUR LINKEDIN LINK](https://www.linkedin.com/in/praiseadetayo))
