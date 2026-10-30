@@ -57,5 +57,5 @@ CKD often goes undetected until it is advanced. This project builds a classifier
 3. The notebook reads the data from Kaggle's input path. To run it locally, download the dataset and change the `path` variable in the loading cell.
 
 ## Author
-[PRAISE ADETAYO], data science graduate (TS Academy)
+PRAISE ADETAYO certified data scientist(TS Academy)
 [Kaggle profile](https://www.kaggle.com/praiseoluwasikemi) | [LinkedIn]([YOUR LINKEDIN LINK](https://www.linkedin.com/in/praiseadetayo))
